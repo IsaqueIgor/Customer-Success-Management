@@ -1,4 +1,3 @@
-```markdown
 # Customer Success Management
 ## About
 A curated list of customer success management resources. The goal is to list information that's helpful for defining the role and building your career, understanding the industry, as well as resources for articles, interviews, presentations, books, software, and case studies. This is just the beginning, so I'll continue to add more info here as the project takes shape.
@@ -6,38 +5,40 @@ A curated list of customer success management resources. The goal is to list inf
 
 ## Content
 
+- [Customer Success Management](#customer-success-management)
+  - [About](#about)
+  - [Content](#content)
 - [Core 1: Customer Success Management](#core-1-customer-success-management)
-    - [What is customer success management?](#what-is-customer-success-management)
-    - [Becoming a Customer Success Manager](#becoming-a-customer-success-manager)
-    - [Getting the job done](#getting-the-job-done)
-    - [Measuring customer success](#measuring-customer-success)
-        - [Articles](#general-articles)
-        - [Presentations](#general-presentations)
-        - [ABF](#abf)
-        - [CLV](#clv)
-        - [NPS](#nps)
-        - [RFM](#rfm)
-    - [Organizing your team](#organizing-your-team)
-    - [Customer fit](#customer-fit)
-    - [Mapping the customer journey](#mapping-the-customer-journey)
-    - [Onboarding](#onboarding)
+  - [What is customer success management?](#what-is-customer-success-management)
+  - [Becoming a Customer Success Manager](#becoming-a-customer-success-manager)
+  - [Getting the job done](#getting-the-job-done)
+  - [Measuring customer success](#measuring-customer-success)
+    - [General articles](#general-articles)
+    - [General presentations](#general-presentations)
+    - [ABF](#abf)
+    - [CLV](#clv)
+    - [NPS](#nps)
+    - [RFM](#rfm)
+  - [Organizing your team](#organizing-your-team)
+  - [Customer fit](#customer-fit)
+  - [Onboarding](#onboarding)
 - [Core 2: Resources](#core-2-resources)
-    - [Dedicated software](#dedicated-software)
-    - [Books](#books)
-    - [Newsletters](#newsletters)
-    - [Blogs](#blogs)
-    - [Podcasts](#podcasts)
-    - [Training](#training)
+  - [Dedicated software](#dedicated-software)
+  - [Books](#books)
+    - [Professional development](#professional-development)
+  - [Newsletters](#newsletters)
+  - [Blogs](#blogs)
+  - [Podcasts](#podcasts)
+  - [Training](#training)
+  - [Thought leaders](#thought-leaders)
 - [Core 3: Real life customer success](#core-3-real-life-customer-success)
-    - [Interviews](#interviews)
-    - [Case studies](#case-studies)
-    - [Communities to join](#communities-to-join)
-        - [Associations](#associations)
-        - [Groups](#groups)
-        - [Conferences](#conferences)
-    - [Thought leaders](#thought-leaders)
+  - [Interviews](#interviews)
+  - [Communities to join](#communities-to-join)
+    - [Associations](#associations)
+    - [Groups](#groups)
+    - [Conferences](#conferences)
 - [Core 4: Joining the team](#core-4-joining-the-team)
-    - [Interview prep](#interview-prep)
+  - [Interview prep](#interview-prep)
         
 # Core 1: Customer Success Management
 ## What is customer success management?
@@ -202,5 +203,5 @@ A curated list of customer success management resources. The goal is to list inf
 # Core 4: Joining the team
 ## Interview prep
 - [ ] [The Most Important Traits & Skills To Look For When Hiring a Customer Success Manager](https://customer-success.getamity.com/amity-blog/the-most-important-traits-skills-to-look-for-when-hiring-a-customer-success-manager)
-```
+
 
